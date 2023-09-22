@@ -1,0 +1,102 @@
+.simpan {
+    color: white;
+    margin: 30px auto;
+    background-color: #0073ff;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    width: 500px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.simpan:active {
+    vertical-align: top;
+    padding: 11px;
+}
+
+.cari {
+    color: white;
+    margin: 30px auto;
+    background-color: #0073ff;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    width: 500px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.cari:active {
+    vertical-align: top;
+    padding: 11px;
+}
+
+.ubah {
+    color: white;
+    margin: 10px 10px 10px 10px;
+    background-color: #0073ff;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    width: 80px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* .ubah:hover {
+    background-color: green;
+} */
+
+.ubah:active {
+    vertical-align: top;
+    padding: 11px;
+}
+
+.hapus {
+    color: white;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(238, 99, 99);
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    width: 80px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* .hapus:hover {
+    background-color: green;
+} */
+
+.hapus:active {
+    vertical-align: top;
+    padding: 11px;
+}
+
+.navigasi {
+    color: white;
+    margin: 1px auto;
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    width: 500px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.navigasi:active {
+    vertical-align: top;
+    padding: 11px;
+}
